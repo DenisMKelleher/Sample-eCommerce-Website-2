@@ -1,9 +1,3 @@
-# ecommerce-laravel-fullstack
-
-# Link : http://vampireecommerce.herokuapp.com
-
-This repo is based on the [youtube series](https://www.youtube.com/playlist?list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR) by [@drehimself](https://github.com/drehimself)
-
 ## Features
 
 -   Fully functional E-commerce website front-end and back-end built from scratch.
@@ -15,22 +9,6 @@ This repo is based on the [youtube series](https://www.youtube.com/playlist?list
 -   Different user roles and privileges.
 -   Categories, tags and price filtering for easier search for products.
 -   And much more features.
-
----
-
-## Installation Guide
-
-1. clone this repo to your local machine: `git clone https://github.com/mhmdomer/ecommerce-laravel.git && cd ecommerce-laravel`
-1. copy `.example.env` to `.env` file: `cp .example.env .env`
-1. create a new database and add the database credentials to your `.env` file
-1. run `composer install`
-1. run `npm install && npm run dev`
-1. run `php artisan key:generate`
-1. run `php artisan ecommerce:install`
-1. run `php artisan serve` and then visit `http://127.0.0.1:8000/`
-1. credentials to access admin panel (email: `admin@admin.com`, password: `password`)
-1. after you login as admin, you can access the admin page from `http://127.0.0.1:8000/admin`
--   Home Page
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/39973541/68545143-e8aeb280-03d2-11ea-8bb1-1c245150e432.png)
 
